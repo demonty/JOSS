@@ -2,7 +2,7 @@
   "author": "daniel montgomery",
   "name": "JOSS",
   "description": "JaHOVA OS Server Module",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/dmonty/JOSS.git"
